@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+}
+
+.navbar {
+    background: #0a2a66;
+    padding: 15px;
+}
+
+.hero {
+    background: lightblue;
+    padding: 50px;
+}
